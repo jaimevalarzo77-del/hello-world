@@ -1,2 +1,3 @@
 # hello-world
-Este repositorio es para poner a prueba una página web de recursos humanos que van a usar el público y los trabajadores de la empresa con el fin de despejar dudas e incovenientes
+Este repositorio es para poner a prueba una página web de recursos humanos que van a usar el público y los trabajadores de la empresa con el fin de despejar dudas e incovenientes.
+La página web está enfocada en el autoservicio del colaborador y la descongestión operativa de Recursos Humanos, funcionando como un primer filtro (Nivel 1 de atención) dentro de la digitalización del servicio. Su propósito central es que cualquier trabajador o postulante resuelva por sí mismo sus dudas más frecuentes de manera inmediata, ordenada y desde su celular, reduciendo los mensajes repetitivos en el chat y reservando el tiempo de los analistas únicamente para los trámites o casos particulares que requieren atención humana.
